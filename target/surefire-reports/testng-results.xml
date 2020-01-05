@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[2020-01-05 22:37:18,269 INFO  com.karros.test.Count_Request - The number of requests are submitted and approved in 2019 is: 5
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,562 INFO  com.karros.test.API_Test - Validate Response Status
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - Validate Response Header
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - Validate Response Body
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,963 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+    <line>
+      <![CDATA[2020-01-05 22:37:20,972 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21402" started-at="2020-01-05T15:37:00Z" finished-at="2020-01-05T15:37:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21402" started-at="2020-01-05T15:37:00Z" finished-at="2020-01-05T15:37:21Z">
+      <class name="com.karros.test.API_Test">
+        <test-method status="PASS" signature="verifyAPI()[pri:0, instance:com.karros.test.API_Test@73ad2d6]" name="verifyAPI" duration-ms="2701" started-at="2020-01-05T22:37:18Z" finished-at="2020-01-05T22:37:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,562 INFO  com.karros.test.API_Test - Validate Response Status
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - Validate Response Header
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,565 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,566 INFO  com.karros.test.API_Test - Validate Response Body
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,963 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+            <line>
+              <![CDATA[2020-01-05 22:37:20,972 INFO  com.karros.test.API_Test - ===PASSED===
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAPI -->
+      </class> <!-- com.karros.test.API_Test -->
+      <class name="com.karros.test.Count_Request">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.karros.test.Count_Request@31ef45e3]" name="beforeTest" is-config="true" duration-ms="10883" started-at="2020-01-05T22:37:00Z" finished-at="2020-01-05T22:37:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="LoginToSystem()[pri:0, instance:com.karros.test.Count_Request@31ef45e3]" name="LoginToSystem" is-config="true" duration-ms="6145" started-at="2020-01-05T22:37:11Z" finished-at="2020-01-05T22:37:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginToSystem -->
+        <test-method status="PASS" signature="countRequest()[pri:0, instance:com.karros.test.Count_Request@31ef45e3]" name="countRequest" duration-ms="980" started-at="2020-01-05T22:37:17Z" finished-at="2020-01-05T22:37:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[2020-01-05 22:37:18,269 INFO  com.karros.test.Count_Request - The number of requests are submitted and approved in 2019 is: 5
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- countRequest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.karros.test.Count_Request@31ef45e3]" name="afterTest" is-config="true" duration-ms="681" started-at="2020-01-05T22:37:20Z" finished-at="2020-01-05T22:37:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.karros.test.Count_Request -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
